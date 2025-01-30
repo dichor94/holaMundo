@@ -7,5 +7,13 @@
         "psr-4": {
             "HolaMundoMultilenguaje\\": "src"
         }
+    },
+
+    "autoload-dev": {
+    "psr-4": {
+        "HolaMundoMultilenguaje\\Tests\\": "tests/"
     }
+
+}
+
 }
