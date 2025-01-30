@@ -1,7 +1,5 @@
 <?php
 
-namespace HolaMundoMultilenguaje\Tests;
-
 use PHPUnit\Framework\TestCase;
 use HolaMundoMultilenguaje\Saludo;
 class SaludoTest extends TestCase
