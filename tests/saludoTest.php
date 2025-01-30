@@ -19,15 +19,4 @@ class SaludoTest extends TestCase
   }
 }
 
-
-
-
-
-
-
-
-
-
-
-
 ?>
